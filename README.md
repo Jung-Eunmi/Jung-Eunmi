@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=F3F781&height=100&section=header&text=Jung%20Eunmi&fontSize=90&api?text=capsule_render&api?text=capsule_render&animation=blink)
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요+정+은+미+입+니+다+♡+♡;&color=9FF781&)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안+녕+하+세+요+정+은+미+입+니+다+♡+♡;&color=9FF781)](https://git.io/typing-svg) 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -21,7 +21,6 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="https://www.instagram.com/dmsal2486/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsal2486/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:dmssl2486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmssl2486@gmail.com"/></a>
 </p>
