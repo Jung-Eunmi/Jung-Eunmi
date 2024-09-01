@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=81DAF5&height=100&section=header&text=Jung%20Eunmi&fontSize=90&api?text=capsule_render&api?text=capsule_render&animation=blink)
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=♡+안+녕+하+세+요+정+은+미+입+니+다+♡;&color=00BFFF)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=♡+안+녕+하+세+요+정+은+미+입+니+다+♡;&color=00BFFF)](https://git.io/typing-svg) 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -22,5 +23,6 @@
 <p align="center">
   <a href="https://www.instagram.com/dmsal2486/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsal2486/"/></a>&nbsp
   <a href="mailto:dmssl2486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmssl2486@gmail.com"/></a>
+
 
 </p>
