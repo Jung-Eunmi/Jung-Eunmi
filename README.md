@@ -54,8 +54,8 @@
 ---
 
 ## 🔥Project🔥
-### [Semi-Procject(하이미디어)](https://github.com/1995-s-Project/1995-s_GroupWare)
-### [Final-Procject(하이미디어)](https://github.com/funniture-Project)
+### [Semi-Procject(Pet Harmony)](https://github.com/1995-s-Project/1995-s_GroupWare)
+### [Final-Procject(Funniture)](https://github.com/funniture-Project)
 
 ---
 
