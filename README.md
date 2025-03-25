@@ -41,8 +41,8 @@
 
 
 ## 🌈Follow Me🌈
-<a href="https://www.instagram.com/keunhee0920/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/keunhee0920/"/></a>
-<a href="mailto:keunhee0920@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=keunhee0920@gmail.com"/></a>
+<a href="https://www.instagram.com/dmsal2486/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dmsal2486/"/></a>
+<a href="mailto:dmssl2486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dmssl2486@gmail.com"/></a>
 
 <br>
 <div align="center">
