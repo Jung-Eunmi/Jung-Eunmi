@@ -45,7 +45,6 @@
 <a href="mailto:dmssl2486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=dmssl2486@gmail.com"/></a>
 
 <br>
-<div align="center">
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-Eunmi&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=Jung-Eunmi&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
@@ -55,7 +54,8 @@
 ---
 
 ## 🔥Project🔥
-### [Semi-Procject](https://github.com/1995-s-Project/1995-s_GroupWare)
+### [Semi-Procject(하이미디어)](https://github.com/1995-s-Project/1995-s_GroupWare)
+### [Final-Procject(하이미디어)](https://github.com/funniture-Project)
 
 ---
 
